@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <link rel= "shortcut icon" href ="C:\Users\ifpb\Downloads\HTML\imagens\Cool-Male-Avatars-06_34319.ico"
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+   
+    <body>
+            <center>
+        
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="file:///C:/Users/ifpb/Downloads/HTML/MinhaHist%C3%B3ria2.html">Início</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                      <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="file:///C:/Users/ifpb/Downloads/HTML/Fam%C3%ADlia2.html">Família<span class="sr-only">(current)</span></a>
+                        <a class="nav-item nav-link" href="file:///C:/Users/ifpb/Downloads/HTML/Religi%C3%A3o2.html">Religião</a>
+                    </div>
+                  </nav>
+
+                  <h1 class="card-title">Minha vida</h1>
+
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="imagens\PAAmigos1.jpg" class="d-block w-100" alt="imagens\PAAmigos1.jpg">
+              </div>
+              <div class="carousel-item">
+                <img src="imagens\MyBrotherCampori.jpg" class="d-block w-100" alt="imagens\MyBrotherCampori.jpg">
+              </div>
+              <div class="carousel-item">
+                <img src="imagens\Amigos.jpg" class="d-block w-100" alt="imagens\Amigos.jpg">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Próximo</span>
+            </a>
+          </div>
+
+
+          
+          
+          <div class="card-group">
+                <div class="card">
+                  <img src="imagens\Pernoite1.jpg" class="card-img-top" alt="imagens\Pernoite1.jpg">
+                  <div class="card-body">
+                    
+                    <p class="card-text">Acampamento que participei em conjunto com um clube chamado Clube de Desbravadores.</p>
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Editado a 2 dias</small>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="imagens\ComGabriel.jpg" class="card-img-top" alt="imagens\ComGabriel.jpg">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      Mi vida</h5>
+                    <p class="card-text">Evento da igreja em Parnamirim, em conjunto com novamente o Clube de Desbravadores.</p>
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Editado a 2 dias</small>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="imagens\Eu1.jpg" class="card-img-top" alt="imagens\Eu1.jpg">
+                  <div class="card-body">
+                    <h5 class="card-title">My life</h5>
+                    <p class="card-text">Neste site, explico um pouco da minha vida, quem são meus irmãos, pais, lugares que frequento, minha religião... Espero que goste e que nenhuma informação que queira saber passe em branco.</p>
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Editado a 2 dias</small>
+                  </div>
+                </div>
+              </div>
+
+            </center>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+     
+        <div class="alert alert-success" role="alert">
+          <h4 class="alert-heading">Informações</h4>
+          <p>Este site foi idealizado e criado por Heleno Neto, sobre quem este site fala, espero que tenha gostado e que não tenha passado nenhuma informação que você queira saber!</p>
+          <hr>
+          <p class="mb-0">* CONTATOS: 
+          <p>>> E-mail: heleno132225neto@gmail.com</p>
+          <p>>> Cell: Indisponível no momento.</p>
+          <p>>> Instagram: @netoo_16.</p>
+          <p>>> Facebook: Heleno Neto.</p> 
+
+          </p>
+        </div>
+    </body>
+
+</html>
