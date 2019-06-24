@@ -37,3 +37,310 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+   
+    <body>
+            <center>
+        
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="file:///C:/Users/PC/Desktop/COISAS/HTML/MinhaHist%C3%B3ria1.html">Início</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                      <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Fam%C3%ADlia1.html">Família<span class="sr-only">(current)</span></a>
+                        <a class="nav-item nav-link" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Religi%C3%A3o.html">Religião</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Paginicial.html">Home</a>
+                          </li>                    
+                        </div>
+                  </nav>
+
+                  <h1 class="card-title">Minha vida</h1>
+                  
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="imagens\PAAmigos1.jpg" class="d-block w-100" alt="imagens\PAAmigos1.jpg">
+              </div>
+              <div class="carousel-item">
+                <img src="imagens\MyBrotherCampori.jpg" class="d-block w-100" alt="imagens\MyBrotherCampori.jpg">
+              </div>
+              <div class="carousel-item">
+                <img src="imagens\Amigos.jpg" class="d-block w-100" alt="imagens\Amigos.jpg">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Próximo</span>
+            </a>
+          </div>
+
+          Odeio Matemática 
+          
+          
+          <div class="card-group">
+                <div class="card">
+                  <img src="imagens\Pernoite1.jpg" class="card-img-top" alt="imagens\Pernoite1.jpg">
+                  <div class="card-body">
+                    
+                    <p class="card-text">Conheça a maioria dos meus amigos também, os lugares que frequento, minha religião etc...</p>
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Editado a 2 dias</small>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="imagens\ComGabriel.jpg" class="card-img-top" alt="imagens\ComGabriel.jpg">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      </h5>
+                    <p class="card-text">Conheça minha família, minha história, minha religião... </p>
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Editado a 2 dias</small>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="imagens\Eu1.jpg" class="card-img-top" alt="imagens\Eu1.jpg">
+                  <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <p class="card-text">Nesse site, você irá aprender sobre a minha vida, bom, pelo menos a maioria das coisas sobre a minha vida. Irá conhecer meus tios, irmãos etc...</p>
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Editado a 2 dias</small>
+                  </div>
+                </div>
+              </div>
+
+            </center>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+     
+        <div class="alert alert-success" role="alert">
+          <h4 class="alert-heading">Informações</h4>
+          <p>Este site foi idealizado e criado por Heleno Neto, sobre quem este site fala, espero que tenha gostado e que não tenha passado nenhuma informação que você queira saber!</p>
+          <hr>
+          <p class="mb-0">* CONTATOS: 
+          <p>>> E-mail: heleno132225neto@gmail.com</p>
+          <p>>> Cell: Indisponível no momento.</p>
+          <p>>> Instagram: @netoo_16.</p>
+          <p>>> Facebook: Heleno Neto.</p> 
+
+          </p>
+        </div>
+    </body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    <body>
+    <center>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="file:///C:/Users/PC/Desktop/COISAS/HTML/MinhaHist%C3%B3ria1.html">Início</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                      <ul class="navbar-nav">
+                        <li class="nav-item active">
+                          <a class="nav-link" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Fam%C3%ADlia1.html">Família <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Religi%C3%A3o.html">Religião</a>
+                        </li>
+                        <li class="nav-item">
+                            <li class="nav-item">
+                                <a class="nav-link" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Paginicial.html">Home</a>
+                              </li>
+                         
+                      </ul>
+                    </div>
+                  </nav>
+
+
+                  
+                  <h1 class="card-title">Família</h1>
+
+                  <div class="card mb-3">
+                        <img src="imagens\Pais.jpg" class="card-img-top" alt="imagens\Pais.jpg">
+                        <div class="card-body">
+                          <h5 class="card-title"></h5>
+                          <p class="card-text">Nesta imagem estão meus pais ao centro, o meu avô ao lado da minha mãe, meu primo Yago a minha frente, e o meu irmão juntamente com a cumadre da minha mãe do outro lado.</p>
+                          <p class="card-text"><small class="text-muted">Editado a 2 dias</small></p>
+                        </div>
+                      </div>
+                      <h1><p>Irmãos</p></h1>
+                      <div class="card-group">
+                            <div class="card">
+                              <img src="imagens\Irmãos.jpg" class="card-img-top" alt="imagens\Irmãos.jpg">
+                              <div class="card-body">
+                                <h5 class="card-title">Meus Irmãos</h5>
+                                <p class="card-text">Tenho dois irmãos por parte de pai, um chamado Ricardo e o outro chamado Romário. Nós nos damos bem, gosto muito deles! E sempre se deram bem com minha mãe também, nunca tivemos problemas em relação a isso, minha mãe gosta muito deles também.</p>
+                                <p class="card-text"><small class="text-muted">Editado a 2 dias</small></p>
+                              </div>
+                            </div>
+                            <div class="card">
+                              <img src="imagens\Ricardo.jpg" class="card-img-top" alt="imagens\Ricardo.jpg">
+                              <div class="card-body">
+                                <h5 class="card-title">Ricardo</h5>
+                                <p class="card-text">Meu irmão Ricardo trabalha concertando celulares e atualmente está morando aqui em Campina Grande no bairro do ligeiro. Ele tem dois filhos, um chamado Samuel e outro Nícolas. É casado com Elizabeth com quem sempre esteve.</p>
+                                <p class="card-text"><small class="text-muted">Editado a 2 dias</small></p>
+                              </div>
+                            </div>
+                            <div class="card">
+                              <img src="imagens\Romário.jpg" class="card-img-top" alt="imagens\Romário.jpg">
+                              <div class="card-body">
+                                <h5 class="card-title">Romário</h5>
+                                <p class="card-text">Meu irmão Romário atualmente está desempregado e mora na Holanda juntamente com a mãe, sua mulher chamada Maiza e seu filho Nícolas.</p>
+                                <p class="card-text"><small class="text-muted">Editado a 2 dias</small></p>
+                              </div>
+                            </div>
+                          </div>
+
+
+                          <div class="card mb-3">
+                            <img src="imagens\FamíliaPai.jpg" class="card-img-top" alt="imagens\FamíliaPai.jpg">
+                            <div class="card-body">
+                              <h5 class="card-title">Irmãos, cunhadas e sobrinhos</h5>
+                              <p class="card-text"></p>
+                              <p class="card-text"><small class="text-muted">Editado a 2 dias</small></p>
+                            </div>
+                          </div>
+                          
+                          <img src="imagens\JoãoPedro.jpg" class="rounded float-left" alt="imagens\JoãoPedro.jpg">
+                          <div class="card" style="width: 18rem;">
+                            <div class="card-body">
+                              <h5 class="card-title"></h5>
+                              <h3><p class="card-text">Tenho um irmão chamado João Pedro, meu irmão de sangue, tem 15 anos, é o meu único irmão de sangue, juntos fazemos muitas coisas, cantamos, rimos, BRIGAMOS, brincamos ...</p></h3>
+                              
+                            </div>
+                          </div>
+                          
+                        <p>#</p>
+                        <p>#</p>
+                          
+                        <img src="imagens\MãeProfessora.jpg" class="rounded float-right" alt="imagens\MãeProfessora.jpg">
+                        <h1><p class="card-text">Minha mãe é professora do 4º e 5º, é formada em psicopedagogia e trabalhou a sua vida toda como professora e ainda trabalha. 
+                          Ela tem 45 anos, e estar casada com meu pai a 16 anos.
+                        </p></h1>
+                              
+                      </div>
+                    </div>        
+                                           
+                        
+                        <img src="imagens\TiosPai.jpg" class="rounded float-left" alt="imagens\TiosPai.jpg">
+                        <h2><p class="card-text">Atualmente meu pai está "desempregado", ele tem uma fábrica que produz calçados, ele trabalhou como sapateiro por toda sua vida. (OBS.: Não encontrei uma foto só do meu pai.).
+                        </p></h2>
+                        <p>#</p>
+                        
+
+                        <img src="imagens\Pais1.jpg" class="rounded float-right" alt="imagens\Pais1.jpg">
+                        <h2><p class="card-text">Os nomes dos meus pais são Francinete de Lima Araújo e João Batista Pereira de Lima.
+                        </p></h2>
+                       
+                         
+
+                          
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+          </center>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    
+    <body>
+    <center> 
+        
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="file:///C:/Users/PC/Desktop/COISAS/HTML/MinhaHist%C3%B3ria1.html">Início</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Fam%C3%ADlia1.html">Família <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Religi%C3%A3o.html">Religião</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="file:///C:/Users/PC/Desktop/COISAS/HTML/Paginicial.html">Home</a>
+                  </li>
+              </ul>
+            </div>
+          </nav>
+          
+          
+          <h1><p>Igreja</p></h1>
+
+          <h>
+          <p>Toda a minha família que mora comigo, são evangélicos, o nome da nossa igreja é Adventista do Sétimo Dia, pois nós guardamos o dia de Sábado, pois esta escrito na Bíblia que devemos santificá-lo.
+              Desde que nasci eu sou Adventista. A minha Mãe era católica mas quando conheceu a igreja, se converteu para a igreja evangélica, ela perguntava ao padre o por que da Bíblia mandar guardar o Sábado e eles guardarem o Domingo.
+              O meu Pai, também conheceu a igreja Adventista depois de adulto.
+          </p></h>
+
+          <div class="card" style="width: 18rem;">
+            <img src="imagens\IASD.PNG" class="card-img-top" alt="imagens\IASD.PNG">
+            <div class="card-body">
+              <p class="card-text">Este é o símbolo da minha igreja! </p>
+            </div>
+            <div class="alert alert-light" role="alert">
+              Se desejar saber mais sobre a igreja que frequento acesse: <a href="http://www.adventistas.org/pt/" class="alert-link">http://www.adventistas.org/pt/</a>
+            </div>
+
+          </div>
+          <h1><p>Desbravadores</p></h1>
+          <h><p>Também participo de um clube da igreja chamado Clube de Desbravadores, é um lugar onde se reúnem adolescentes juntamente com adultos para receber certas instruções sobre a Bíblia e também ensinam a sobreviver dentro da "selva", como se fosse escoteiros, só que com o estudo da Bíblia.</p></h>
+          
+          <img src="imagens\MyBrotherCampori.jpg" class="rounded float-right" alt="imagens\MyBrotherCampori.jpg">
+          </div>
+          <h4><p>Nesta foto estou juntamente com o grupo, participando de um evento chamado Campori, é como se fosse um "JC", só que dormimos em barracas, montamos nosso acampamento, fazemos nossa própria comida etc... Este evento acontece de 4 em 4 anos e tem o "Campori DSA" (Camporia da Divisão Sul Americana) que envolve todos os clubes da América do Sul, ou seja vem clubes de outros países para participar deste grande evento. Nesta foto estou em um Campori da Missão Nordeste, que envolve apenas o Nordeste.</p></h4>
+          <div class="alert alert-light" role="alert">
+            Se deseja saber mais sobre acesse: <a href="https://www.adventistas.org/pt/desbravadores/" class="alert-link">https://www.adventistas.org/pt/desbravadores/</a>
+          </div>
+
+
+
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        </center>
+    </body>
+</html>
+
